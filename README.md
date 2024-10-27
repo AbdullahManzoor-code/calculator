@@ -1,4 +1,4 @@
-BMI Calculator
+**BMI Calculator**
 
 Welcome to the BMI Calculator! This simple project helps users calculate their Body Mass Index (BMI) based on their height and weight. The BMI is a useful metric to determine whether a person has a healthy weight.
 
